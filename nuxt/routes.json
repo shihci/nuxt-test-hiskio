@@ -1,0 +1,16 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\User.FRONTEND02\\\\Desktop\\\\test-nuxt\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_36e9da1f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\User.FRONTEND02\\\\Desktop\\\\test-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_56a1b4e4"
+  }
+]
